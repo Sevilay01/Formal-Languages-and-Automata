@@ -69,9 +69,11 @@
    - **XML** is *Extensible Markup Language* and it was designed to carry data.
    - **XML** can be used for data transmitting,web applications,documents,etc.
    - **HTML** is *Hypertext Markup Language* and it was designed to display data.
+   - **JSON** is *Java Script Object Notation* and it is used to send data between computers.
    - **BFS** is *Breadth First Search* and it is a **graph traversal algorithm**.
    - **DFS** is *Depth First Search* and it is also a **graph traversal algorithm**.We traverse all vertices one by one.
-  
+
+  ![DFS vs BFS](DFSvsBFS.jpg)
 
 
 
@@ -126,5 +128,6 @@
   Resources:<br>
   - [Formal Language](https://en.wikipedia.org/wiki/Formal_language)
   - [Lecture Link](https://web.cs.hacettepe.edu.tr/~ilyas/Courses/AIN312/)
+  - [DFS vs BFS](https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9)
     
   
